@@ -47,3 +47,7 @@
     --lh-120: 120%;
     --lh-140: 140%;
 }
+
+body{
+    background-color: var(--gray-600);          
+}
